@@ -1,1 +1,4 @@
-# https://vitalyam.github.io/Crypto/ Crypto
+# Лендинг Crypto 
+# https://vitalyam.github.io/Crypto/
+
+В работе использовалась Bootstrap Studio.
